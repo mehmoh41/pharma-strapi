@@ -4,10 +4,10 @@
 # See https://docs.platform.sh/configuration/app.html
 
 # The name of this app. Must be unique within a project.
-name: app
+name: pharma-strapi
 
 # The runtime the application uses. Strapi not yet suppported with NodeJS 14.
-type: nodejs:16
+type: nodejs:18
 
 # Use Yarn instead of npm.
 build:
